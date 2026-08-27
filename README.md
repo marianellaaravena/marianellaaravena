@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**marianellaaravena/marianellaaravena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hola, soy Marianella Belen Aravena 👋
+Estudiante del Profesorado en Informática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Sobre mí
+* 🎓 Soy Técnica en Videojuegos y me falta poco de graduarme como Analista Programadora.
+* 💻 Tengo conocimientos en **C++** y **Java**.
+* 💻 Me gusta el desarrollo **Front-end**, realice trabajos en react y angular. 
+* 🚀 Actualmente estoy desarrollando mi propia página web para promover mi emprendimiento de amigurumis.
+
+## 🎮 Mis intereses y pasatiempos
+* 🕹️Me gusta pasar mi tiempo libre jugando videojuegos como RE4, COD y LOL.
+* 🧶 Mi pasatiempo favorito es tejer **amigurumis**.
